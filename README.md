@@ -1,5 +1,5 @@
 # CPP-Programming
-A complete reference to C++ programming
+C++ programming modulewise exercises.
 
 
 ## Contributors ❤
